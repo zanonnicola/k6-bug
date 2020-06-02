@@ -9,8 +9,8 @@
 ```
 INFO[0002] undefined                                    
 ERRO[0002] TypeError: Cannot read property 'v4' of undefined
-        at generateCorrelationId (file:///Users/i518561/repos/k6-bug/test.js:13:246(14))
-        at file:///Users/i518561/repos/k6-bug/test.js:12:26(3) 
+        at generateCorrelationId (file:///Users/1111/repos/k6-bug/test.js:13:246(14))
+        at file:///Users/1111/repos/k6-bug/test.js:12:26(3) 
     done [==========================================================] 1 / 1
 ```
 
